@@ -13,7 +13,7 @@ o
 yarn install
 ```
 
-## Los archivos deberían verse así
+## Los archivos deberían verse así de lo contrario crea las carpetas faltantes; src y public
 ```
 mi-proyecto/
 ├── public/               
